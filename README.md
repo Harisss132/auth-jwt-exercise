@@ -1,1 +1,1 @@
-latihan authtentication dengan jsonwebtoken, bcrypt
+Tujuan utama dari latihan authtentication dengan jsonwebtoken, bcrypt adalah untuk memperkuat pemahaman saya tentang authtentication dengan jsonwebtoken, lalu di kombinasikan dengan bcrypt untuk keamanan password saat disimpan ke database untuk lat4 saya tambahkan sedikit middleware yang lebih ketat dengan regex, untuk menangani agar format email yang dikirim itu benar tidak asal-asalan
